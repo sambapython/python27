@@ -1,0 +1,10 @@
+Anaconda installation:
+
+download from here: https://www.continuum.io/downloads. Select python 2.7 version
+
+And go with the instructions given in the above site.
+
+Run below commands: bash Anaconda2-4.3.0-Linux-x86_64.sh 
+
+
+
