@@ -1,8 +1,8 @@
 print "file1"
 def fun():
-	return "this is fun in file1.py modified in batch27/modules"
+	return "this is fun in file1.py modified in python 2.7"
 def fun1():
-	return "this is fun1 in file1.py modified in batch27/modules"
+	return "this is fun1 in file1.py modified in python 2.7"
 
 if __name__ == "__main__":
 	print "program started"

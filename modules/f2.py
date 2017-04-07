@@ -20,6 +20,29 @@ print fun1()
 #import module2
 #print module2.file1.fun1()
 #print module2.__init__.file1.fun1()
+'''
+import module2
+print module2.file1.fun()
+print module2.file1.fun1()
+'''
+#from module2 import file1
+#import module2
+'''
+from module2 import file2
+print file2.fun1()
+'''
+'''
+import module2
+print module2.file1.fun1()
+'''
+#import module2
+'''
+import sqlite3
+print sqlite3.__file__
+import module2
+import sys
+print sys.path
+'''
 import module2
 print module2.file1.fun()
 print module2.file1.fun1()
