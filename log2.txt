@@ -1,0 +1,20 @@
+2017-04-08 07:52:24,975->INFO->------ program started...............,
+2017-04-08 07:52:27,481->DEBUG->result=2,
+2017-04-08 07:52:39,292->INFO->------ program started...............,
+2017-04-08 07:52:43,137->ERROR->integer division or modulo by zero,
+Traceback (most recent call last):
+  File "log/exp.py", line 12, in <module>
+    result = a/b
+ZeroDivisionError: integer division or modulo by zero
+2017-04-08 07:52:57,852->INFO->------ program started...............,
+2017-04-08 07:53:00,369->WARNING->got the alphanumeric values may raise an exception,
+2017-04-08 07:53:00,370->ERROR->invalid literal for int() with base 10: 'qwe',
+Traceback (most recent call last):
+  File "log/exp.py", line 10, in <module>
+    a=int(a)
+ValueError: invalid literal for int() with base 10: 'qwe'
+2017-04-08 07:59:20,185->INFO->function started,
+2017-04-08 07:59:20,193->WARNING->warniog message,
+2017-04-08 07:59:20,194->DEBUG->result:20,
+2017-04-08 07:59:20,195->INFO->------ program started...............,
+2017-04-08 07:59:23,814->DEBUG->result=0,

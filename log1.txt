@@ -1,0 +1,24 @@
+INFO:root:information
+DEBUG:root:debug information
+WARNING:root:warning information
+ERROR:root:error information
+ERROR:root:Exception information
+None
+2017-04-08 07:39:26,721->INFO->information,
+2017-04-08 07:39:26,727->DEBUG->debug information,
+2017-04-08 07:39:26,728->WARNING->warning information,
+2017-04-08 07:39:26,728->ERROR->error information,
+2017-04-08 07:39:26,728->ERROR->Exception information,
+None
+2017-04-08 07:42:27,764->WARNING->warning information,
+2017-04-08 07:42:27,768->ERROR->error information,
+2017-04-08 07:42:27,772->ERROR->Exception information,
+None
+2017-04-08 07:44:26,378->WARNING->warning information,
+2017-04-08 07:44:26,381->ERROR->error information,
+2017-04-08 07:44:26,383->ERROR->Exception information,
+None
+2017-04-08 07:45:15,086->WARNING->warning information,
+2017-04-08 07:45:15,091->ERROR->error information,
+2017-04-08 07:45:15,096->ERROR->Exception information,
+None
