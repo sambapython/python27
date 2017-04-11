@@ -1,3 +1,4 @@
+import pdb
 a=10
 b=20
 c=30
@@ -8,5 +9,6 @@ def fun(a1,b1):
 	return a1+b1
 for i in range(3):
 	print i+c
+pdb.set_trace()
 res = fun(a,b)
 print "program ended"
